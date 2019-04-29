@@ -53,7 +53,7 @@ namespace KaraokeFinch
             //
             // Get song choice from user
             //
-            Console.WriteLine("Please enter your song choice for Karaoke legend Gloria:");
+            Console.WriteLine("Please enter 1, 2 or 3 for your song choice for Karaoke legend Gloria:");
             karaokeSong = Console.ReadLine();
 
             switch (karaokeSong)
