@@ -155,7 +155,7 @@ namespace KaraokeFinch
         static void KaraokeSongThree(double paparazziLightThreshold)
         {
             //
-            // Karaoke Song 3 - Twinkle Twinkle puts Gloris in the best mood for her best dance moves
+            // Karaoke Song 3 - Twinkle Twinkle puts Gloria in the best mood for her best dance moves
             //
             Console.WriteLine();
             Console.WriteLine("Here's Gloria with her favorite jam, Twinkle Twinkle Little Star!");
